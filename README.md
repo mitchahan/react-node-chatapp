@@ -1,3 +1,6 @@
+## Description
+This project utilizes routing, components, and props learned through youtube tutorials and by following [this](https://medium.freecodecamp.org/building-a-modern-chat-application-with-react-js-558896622194) tutorial to strengthen my understanding of React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
